@@ -1,6 +1,6 @@
 # Hello
 ## Goodbye
-[Link]([http://a.com](https://lemniskater.github.io/cse15l-lab-reports/))
+[this website](https://lemniskater.github.io/cse15l-lab-reports/)
 > Blockquote
 Horizontal rule:
 ---
