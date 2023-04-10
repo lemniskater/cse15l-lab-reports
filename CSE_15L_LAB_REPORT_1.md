@@ -1,5 +1,5 @@
 Hello, if you're here, then you must be looking for a tutorial on how to connect remotely using your ieng6 account through vscode.  
-# Part 1  
+# Getting Started  
 Please go to [https://code.visualstudio.com/](https://code.visualstudio.com/), follow the instructions given by the website, download and install visual studio code. 
 Once installed, open visual studio code,  
 ![Image](Screenshot 2023-04-10 at 9.35.56 AM.png)  
