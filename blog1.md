@@ -22,7 +22,8 @@
 
 ## Using ls
 
-**without arguments** 
+**without arguments**
+
 ![Image](lsnoarg.png)
 
 * In /home/lecture1/messages ls prints out all the txt file names present in the messages folder, this is not an error.
