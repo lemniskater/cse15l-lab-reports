@@ -6,7 +6,7 @@
  
 ![Image](cdnoargs.png)
  
-- cd prints and *seems to do nothing*, the working directory was `/home` when run with no arguments. It is *not an error* since I did not specify any directory
+- cd prints nothing but without arguments the user is brought *all the way out to to the home directory*, the working directory was `/home/lecture1` when run with no arguments. No error here, cd with no arguments brings the user back to the home directory.
   
  **with a path to a directory** 
  
@@ -26,13 +26,13 @@
 
 ![Image](lsnoarg.png)
 
-* In `/home/lecture1/messages` ls prints out all the txt file names present in the messages folder, this is *not an error*.
+* In `/home/lecture1/messages` ls prints out all the txt file names present in the messages folder, this is *not an error*. Beyond that ls will print the name of any non-hidden files present within a directory.
 
 **with a path to a directory** 
 
 ![Image](lsdir.png)
 
-* In `/home` I used ls on lecture1 to print out all file names in lecture1.
+* In `/home/lecture1/messages` ls can be used to list all the names of files present in the /home/lecture1/messages directory.
 
 **with a path to a file** 
 
@@ -46,14 +46,13 @@
 
 ![Image](catnoargs.png)
 
-* In `/home` running cat without arguments seemed to make the terminal run infinitely and I had to *stop the terminal using ctrl + c*. This seems to be an *error* because of the fact that the terminal stopped working as intended.
+* In `/home` running cat without arguments made it so the terminal read my keyboard inputs. I could exit out of this behavior by pressing `ctrl + c`.
 
 **with a path to a directory** 
 
 ![Image](catdir.png)
 
-* In `/home` I used cat to specify `lecture1` and it *printed out lecture1 is a directory*.
-
+* In `/home` I typed `cat lecture1` and it *printed out lecture1 is a directory*. I do not believe this is an error because cat is normally used to print the contents of a file, not a directory. 
 **with a path to a file** 
 
 ![Image](catfile.png)
