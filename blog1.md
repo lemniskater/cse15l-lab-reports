@@ -53,6 +53,7 @@
 ![Image](catdir.png)
 
 * In `/home` I typed `cat lecture1` and it *printed out lecture1 is a directory*. I do not believe this is an error because cat is normally used to print the contents of a file, not a directory. 
+
 **with a path to a file** 
 
 ![Image](catfile.png)
