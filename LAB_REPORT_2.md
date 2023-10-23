@@ -14,3 +14,15 @@ My code
 - Which methods in your code are called? The handeRequest method is called again.
 - What are the relevant arguments to those methods, and the values of any relevant fields of the class? The relevant argument is the url given. The relevant fields are StringBuilder addedStrings and int stringCount.
 - How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why. In this case no values were changed because no string was specified, resulting in an index out of bounds error.
+
+
+## Part 2
+
+SSH private key
+![Image](private)
+
+SSH public Key 
+![Image](public)
+
+Terminal Interaction
+![Image](loggedin)
