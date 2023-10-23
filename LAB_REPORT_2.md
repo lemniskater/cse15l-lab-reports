@@ -19,10 +19,10 @@ My code
 ## Part 2
 
 SSH private key
-![Image](private)
+![Image](private.png)
 
 SSH public Key 
-![Image](public)
+![Image](public.png)
 
 Terminal Interaction
-![Image](loggedin)
+![Image](loggedin.png)
