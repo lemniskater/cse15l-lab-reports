@@ -3,7 +3,7 @@
 ## Part 1
 
 My code 
-![Image](code.png) 
+![Image](labreport2code.png) 
 
 ![Image](stringserver1.png)
 - Which methods in your code are called? The handleRequest method is called.
@@ -19,10 +19,14 @@ My code
 ## Part 2
 
 SSH private key
-![Image](private.png)
+![Image](private&#32;key.png)
 
 SSH public Key 
-![Image](public.png)
+![Image](public&#32;key.png)
 
 Terminal Interaction
 ![Image](loggedin.png)
+
+## Part 3
+
+Some new things I learned were how to create a method that allows for a numerically listed set of strings when added to a list. I was also able to understand how to store and access strings addded to my server.
