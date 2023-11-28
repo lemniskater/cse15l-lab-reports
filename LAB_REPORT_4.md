@@ -4,7 +4,7 @@
 
 ![Step 4](step4.png)
 
-*Keys pressed:* `<up><enter>` the `ssh cs15lfa23le@ieng6-201.ucsd.edu` command was one up in the search history, so I used one up arrow and enter to input it.
+*Keys pressed:* `<up><enter>` the `ssh cs15lfa23le@ieng6-201.ucsd.edu` command was one up in the search history, so I used one up arrow and `<enter>` to input it.
 
 5. Clone your fork of the repository from your Github account (using the SSH URL)
 
@@ -34,4 +34,4 @@
 
 ![Step 9](step9.png)
 
-*keys pressed* `<control + r><git add><enter><control + r><git commit><enter><git push><enter>` I used `<control + r>` to search the command history to git add the file, git commit it with a comment, then I manually typed `git push`.
+*keys pressed* `<control + r><git add><enter><control + r><git commit><enter><git push><enter>` I used `<control + r>` to search the command history to `git add` the file, `git commit` it with a comment, then I manually typed `git push`.
