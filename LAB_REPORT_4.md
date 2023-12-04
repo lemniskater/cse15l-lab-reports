@@ -4,25 +4,25 @@
 
 ![Step 4](step4.png)
 
-*Keys pressed:* `<up><enter>` the ssh cs15lfa23le@ieng6-201.ucsd.edu command was one up in the search history, so I used one up arrow and enter to input it.
+*Keys pressed:* `<up><enter>` the `ssh cs15lfa23le@ieng6-201.ucsd.edu` command was one up in the search history, so I used one up arrow and `<enter>` to input it.
 
 5. Clone your fork of the repository from your Github account (using the SSH URL)
 
 ![Step 5](step5.png)
 
-*Keys pressed:* `<command + v><control + a><git><space><clone><enter>` the ssh url was copied from my github repository and pasted into the terminal, I used control + a to get to the beginning of the line and I typed git clone.
+*Keys pressed:* `<command + v><control + a><git><space><clone><enter>` the ssh url was copied from my github repository and pasted into the terminal, I used `<control + a>` to get to the beginning of the line and I typed `git clone`.
 
 6. Run the tests, demonstrating that they fail
 
 ![Step 6](step6.png)
 
-*Keys pressed:* `<cd><lab7><enter><control + r><javac><enter><control + r><java><space><enter>` I typed in cd lab7 to get to the correct directory of the cloned repository and then I used the search history function to find the junit compile and run command.
+*Keys pressed:* `<cd><lab7><enter><control + r><javac><enter><control + r><java><space><enter>` I typed in `cd lab7` to get to the correct directory of the cloned repository and then I used the search history function to find the junit compile and run command.
 
 7. Edit the code file to fix the failing test
 
-![Step 7](step7+8.png)
+![Step 7](step7.png)
 
-*Keys pressed:* `<control + r><vim><enter><43jer2:wq><enter>` I used control + r to search the command history for the vim command I used before and once I entered into the vim environment I used my semi-optimized keystroke pattern to get to the correct line and make the correct edits.
+*Keys pressed:* `<control + r><vim><enter><43jer2:wq><enter>` I used `<control + r>` to search the command history for the vim command I used before and once I entered into the vim environment I used my semi-optimized keystroke pattern to get to the correct line and make the correct edits. The failing test was incrementing the wrong variable so I changed it to the correct one.
 
 8. Run the tests, demonstrating that they now succeed
 
@@ -34,4 +34,4 @@
 
 ![Step 9](step9.png)
 
-*keys pressed* `<control + r><git add><enter><control + r><git commit><enter><git push><enter>` I used control + r to search the command history to git add the file, git commit it with a comment, then I manually typed git push.
+*keys pressed* `<control + r><git add><enter><control + r><git commit><enter><git push><enter>` I used `<control + r>` to search the command history to `git add` the file, `git commit` it with a comment, then I manually typed `git push`.
